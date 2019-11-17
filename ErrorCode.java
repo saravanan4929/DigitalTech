@@ -3,5 +3,6 @@ public class ErrorCode {
     public static final String TASK_ASSIGNMENT_CLAIM_EXCEPTION = "10001";
     public static final String TASK_NOT_ASSIGNED_DUE_NO_ACCESS_EXCEPTION = "10002";
     public static final String USER_NOT_IN_TEAM_EXCEPTION = "10003";
-public static final String USER_NOT_IN_TEAM_EXCEPTION = "10004";
+	public static final String USER_NOT_IN_TEAM_EXCEPTION = "10004";
+	public static final String USER_NOT_IN_TEAM_EXCEPTION = "10005";
     }
